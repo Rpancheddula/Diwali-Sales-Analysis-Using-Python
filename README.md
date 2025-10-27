@@ -1,10 +1,5 @@
 # Diwali Sales Analysis 🪔📊
 
-## Data Source 💾
-
-The analysis uses the `Diwali Sales Data.csv` file.
-The dataset (`Diwali Sales Data.csv`) is included in this repository.
-
 ## Overview 📝
 
 This project performs an Exploratory Data Analysis (EDA) on Diwali sales data. The goal is to uncover trends and insights regarding customer demographics, popular product categories, and regional sales performance during the Diwali season. This information can be valuable for understanding customer behavior and informing future marketing or sales strategies.
